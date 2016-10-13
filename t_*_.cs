@@ -1,4 +1,5 @@
-    public class t1
+//t_*_.cs    
+public class t1
     {
         public void M1()
         {
