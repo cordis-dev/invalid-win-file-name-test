@@ -17,7 +17,7 @@
             context.Request.Form["IntProperty_11"] = "12";
         }
 		
-		public void M2()
+	public void M2()
         {
             dynamic context = null;
             context.Request.Form["IntProperty_00"] = "1";
@@ -33,4 +33,5 @@
             context.Request.Form["IntProperty_10"] = "11";
             context.Request.Form["IntProperty_11"] = "12";
         }
+	    
 }
