@@ -1,2 +1,1 @@
-# invalid-win-file-name-test v1         
-#
+# invalid-win-file-name-test
